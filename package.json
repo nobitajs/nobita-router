@@ -1,6 +1,6 @@
 {
   "name": "nobita-router",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "nobita-router",
   "main": "lib/nobita-router.js",
   "dependencies": {},
