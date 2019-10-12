@@ -1,11 +1,11 @@
 {
   "name": "nobita-router",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "nobita-router",
   "main": "lib/nobita-router.js",
   "dependencies": {
     "koa-router": "^7.4.0",
-    "loadsh": "^4.17.15",
+    "lodash": "^4.17.15",
     "fast-json-stringify": "1.15.5"
   },
   "devDependencies": {
